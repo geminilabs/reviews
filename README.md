@@ -1,5 +1,6 @@
 # Site Reviews
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cda5e67dcf2d423bab0e3cb088c71411)](https://www.codacy.com/app/pryley/site-reviews?utm_source=github.com&utm_medium=referral&utm_content=geminilabs/site-reviews&utm_campaign=badger)
 [![GitHub version](https://badge.fury.io/gh/geminilabs%2Fsite-reviews.svg)](https://badge.fury.io/gh/geminilabs%2Fsite-reviews) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/geminilabs/site-reviews/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/geminilabs/site-reviews/?branch=master) [![Build Status](https://travis-ci.org/geminilabs/site-reviews.svg?branch=master)](https://travis-ci.org/geminilabs/site-reviews) [![License](https://img.shields.io/badge/license-GPLv2+-brightgreen.svg)](https://github.com/geminilabs/site-reviews/blob/master/license.txt)
 
 ![Site Reviews banner](src/assets/banner-1880x609.png)
